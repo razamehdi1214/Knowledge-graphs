@@ -56,7 +56,7 @@ Here we use part of New York City:
   - Empire State → Flatiron Building: `road_to (900m)`  
 
 📷 **Figure:** Annotated city map (nodes and edges)  
-![City Knowledge Graph](city_graph.png.png)
+![City Knowledge Graph](city_graph.png)
 
 This single example shows:
 - **Graph:** landmarks + roads  
